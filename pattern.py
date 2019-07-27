@@ -1,4 +1,4 @@
-#inverted * pattern
+  #inverted * pattern
 
 def pypart2(n): 
       
